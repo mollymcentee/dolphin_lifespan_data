@@ -2,7 +2,7 @@
 
 ## Description of the data and file structure
 
-This file explains all of the variables in each of the datasets that accompany: McEntee, M.H.F.,  Foroughirad, V.,  Krzyszczyk, E., Mann, J. 2023. Sex bias in mortality risk changes over the lifespan of bottlenose dolphins. [doi/10.1098/rspb.2023.0675 ](https://doi.org/10.1098/rspb.2023.0675)
+This file explains all of the variables in each of the datasets that accompany: McEntee, M.H.F.,  Foroughirad, V.,  Krzyszczyk, E., Mann, J. 2023. Sex bias in mortality risk changes over the lifespan of bottlenose dolphins. [doi/10.1098/rspb.2023.0675 ](https://doi.org/10.1098/rspb.2023.0675).
 
 For more information please contact Molly McEntee at [mhm95@georgetown.edu](mailto:mhm95@georgetown.edu).
 
