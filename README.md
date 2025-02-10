@@ -15,16 +15,16 @@ For more information please contact Molly McEntee at [mhm95@georgetown.edu](mail
 ##### Variables
 
 * Dolphin.ID = dolphin ID
-* Birth.Date = date of dolphin birth
-* Death.Date = date of dolphin death if known, NA if the dolphin is  alive
+* Birth.Date = date of dolphin birth (YYYY-MM-DD)
+* Death.Date = date of dolphin death if known, NA if the dolphin is  alive (YYYY-MM-DD)
 * Sex = Female, Male, or Unknown
 * total.num.sightings = Total number of sightings of that dolphin in the dataset
-* gap = maximum individual sighting gap, NA if the individual  occurred one time or fewer in the data.
-* time = time at death if dead, time at right censorship if  alive
+* gap = maximum individual sighting gap (years), NA if the individual  occurred one time or fewer in the data.
+* time = time at death if dead, time at right censorship if alive (years)
 * event = 1 if dead, 0 if alive
-* trunc.time = age the dolphin entered the dataset
-* first.sight.date = first occurrence of the dolphin in the dataset
-* last.sight.date = last occurrence of the dolphin in the dataset
+* trunc.time = age the dolphin entered the dataset (years)
+* first.sight.date = first occurrence of the dolphin in the dataset (YYYY-MM-DD)
+* last.sight.date = last occurrence of the dolphin in the dataset (YYYY-MM-DD)
 
 #### File: BaSTA\_data.csv
 
